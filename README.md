@@ -1,5 +1,5 @@
 
-# fs-force-mkdir
+# fs-force-write-file
 
 ## Requirements
 
