@@ -1,0 +1,35 @@
+
+{
+	"name": "fs-force-write-file",
+	"description": "Just provide a path to create a file",
+	"version": "0.0.0",
+	"author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
+	"contributors": [
+		"Hoàng Văn Khải <hvksmr1996@gmail.com>"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ksxnodemodules/fs-force-write-file.git"
+	},
+	"engines": {
+		"node": ">=6.0.0"
+	},
+	"dependencies": {
+		"fs-one-promise-queue": "^1.0.0",
+		"try-promise": "^1.0.0",
+		"fs-force-mkdir": "^1.4.0",
+		"fs-force-delete": "^1.1.0",
+		"fs-force-utils": "ksxnodemodules/fs-force-utils#v0.0.0"
+	},
+	"main": "index.js",
+	"keywords": [
+		"force-mkfile",
+		"force-create-file",
+		"force-write-file"
+	],
+	"bugs": {
+		"url": "https://github.com/ksxnodemodules/fs-force-write-file/issues"
+	},
+	"homepage": "https://github.com/ksxnodemodules/fs-force-write-file#readme"
+}
